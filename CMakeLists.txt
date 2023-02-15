@@ -31,7 +31,6 @@ ament_auto_find_build_dependencies()
 rosidl_generate_interfaces(${PROJECT_NAME}
   msg/InfrastructureCommand.msg
   msg/InfrastructureCommandArray.msg
-  msg/KeyValue.msg
   DEPENDENCIES
     builtin_interfaces
 )

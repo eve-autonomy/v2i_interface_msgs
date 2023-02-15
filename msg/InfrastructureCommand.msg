@@ -10,5 +10,4 @@ uint8 INTURRUPT_STOP=255
 builtin_interfaces/Time stamp
 string type
 string id
-v2i_interface_msgs/KeyValue[] custom_tags # custom tags are set based on the 'type'
 uint8 state
